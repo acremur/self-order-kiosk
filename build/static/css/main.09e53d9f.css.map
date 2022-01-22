@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.09e53d9f.css","mappings":"AAAA,oBAGI,QAAS,CAFT,eAAgB,CAChB,SAEJ","sources":["utils/globals.css"],"sourcesContent":["*::-webkit-scrollbar {\r\n    overflow: hidden;\r\n    padding: 0;\r\n    margin: 0;\r\n}"],"names":[],"sourceRoot":""}
